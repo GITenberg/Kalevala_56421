@@ -5,6 +5,9 @@ contributor:
     agent_name: Castrén, Matthias Alexander
     gutenberg_agent_id: '48832'
     url: http://www.gutenberg.org/2009/agents/48832
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -15,6 +18,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56421#Kalevala
 gutenberg_issued: '2018-01-24'
 gutenberg_type: Text
 identifiers:
